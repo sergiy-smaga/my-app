@@ -1,0 +1,10 @@
+.textarea {
+  padding: 5px;
+  border-radius: 5px;
+  resize: none;
+  margin-bottom: 10px;
+}
+.label {
+  display: block;
+  margin-bottom: 10px;
+}
